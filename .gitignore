@@ -1,0 +1,16 @@
+#picture
+*.png
+
+#cpp exe
+*.exe
+*.o
+
+#vs
+*.sln
+*.vxcproj
+*.user
+*.filters
+
+#compile
+*.obj
+DeBug
